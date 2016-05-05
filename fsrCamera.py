@@ -25,7 +25,7 @@ pics_taken = 0
 fromAddr = 'rpiseccam370@gmail.com'
 toAddr = 'rpiseccam370@gmail.com'
 userName = 'rPiSecCam370'
-passWord = 'CS370project'
+passWord = '***********'
 
 
 
